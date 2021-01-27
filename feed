@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>How to Sing</title>
+	<atom:link href="https://Singing-Lessons.github.io/How to Sing/feed" rel="self" type="application/rss+xml" />
+	<link>https://Singing-Lessons.github.io/How to Sing</link>
+	<description>How to Sing - Learn to sing with confidence, power and perfect pitch...</description>
+	<lastBuildDate>Wednesday, 27 January 2021 23:43:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>How to Sing High</title>
+		<link>https://Singing-Lessons.github.io/How to Sing/How-to-Sing/How-to-Sing-High.html</link>
+		<pubDate>Wednesday, 27 January 2021 23:43:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[How to Sing]]></category>
+		<guid isPermaLink="false">https://Singing-Lessons.github.io/How to Sing/How-to-Sing/How-to-Sing-High.html</guid> 
+		<description><![CDATA[How to Sing High
+by
+Kate
+Posted on 27-01-2021 11:43 PM
+The ability to sing high notes and increasing the vocal range is an aspiration of most singers However, most singers find it very difficult to increase their vocal range so that they can hit and sustain those high notes effortlessly and effectivelySo how to sing higher and own a powerful singing voice and hit those high notes without straining your vocal cords or even damaging them? 
+ Although expanding your vocal range is an illusive issue, the good news is that it is not all that difficult
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
